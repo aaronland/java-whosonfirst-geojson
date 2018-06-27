@@ -51,3 +51,5 @@ Please tell me there's an option to prevent scientific notation, Java. See also:
 * https://github.com/bjornharrtell/jts2geojson
 * https://github.com/filosganga/geogson
 * https://github.com/google/gson
+* http://docs.geotools.org/
+* http://docs.geotools.org/latest/javadocs/org/geotools/geojson/geom/GeometryJSON.html
