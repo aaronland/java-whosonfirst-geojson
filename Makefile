@@ -1,0 +1,2 @@
+compile:
+	mvn clean install
