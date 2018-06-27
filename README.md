@@ -42,6 +42,7 @@ So far so good, except for this part:
 
 Please tell me there's an option to prevent scientific notation, Java. See also:
 
+* https://github.com/aaronland/java-whosonfirst-geojson/blob/master/src/main/java/org/whosonfirst/geojson/HelloWorld.java#L52-L72
 * https://stackoverflow.com/questions/11586299/how-to-prevent-gson-from-converting-a-long-number-a-json-string-to-scientific/23483692
 * https://stackoverflow.com/questions/11119094/switch-off-scientific-notation-in-gson-double-serialization
 
